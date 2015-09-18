@@ -2,8 +2,8 @@
 //  BugScene.swift
 //  Spin Solitaire
 //
-//  Created by Daniel Kanaan on 9/16/15.
-//  Copyright © 2015 Daniel Kanaan. All rights reserved.
+//  Created by visskiss on 9/16/15.
+//  Copyright © 2015 visskiss. All rights reserved.
 //
 
 import Foundation

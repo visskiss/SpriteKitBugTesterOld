@@ -2,8 +2,8 @@
 //  GameScene.swift
 //  BugTester
 //
-//  Created by Daniel Kanaan on 9/17/15.
-//  Copyright (c) 2015 Daniel Kanaan. All rights reserved.
+//  Created by visskiss on 9/17/15.
+//  Copyright (c) 2015 visskiss. All rights reserved.
 //
 
 import SpriteKit
