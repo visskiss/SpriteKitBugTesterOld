@@ -18,4 +18,6 @@ This is an unmodified "New Sprite Kit Game".  You add the SpriteKitBugTester swi
 and make sure you have a "launch image" and a blank.png image.  If you don't have these, it won't particularly 
 matter, but you will get a notice and a big red X will temporarily flash while the test is carried out.
 
+The only file I modified in the "new sprite kit game" is GameViewController to make the test present the actual game scene as a completion block.
+
 Enjoy.
